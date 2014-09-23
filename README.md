@@ -1,6 +1,4 @@
 # Using Tessel GPS with PubNub & Google Maps
----
-
 [](/tessel-gps-maps.jpg)
 
 
@@ -9,7 +7,7 @@ This guide provides a kickstart to using the [Tessel](http://tessel.io) GPS boar
 
 
 ## Requirements
----
+- - -
 Below is a list or prerequisites for the project, the only hardware required is the Tessel with a GPS Module.
 
 * A [Tessel](http://tessel.io) with a [GPS Module](http://start.tessel.io/modules/gps)
