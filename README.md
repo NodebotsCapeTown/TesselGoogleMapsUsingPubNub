@@ -1,5 +1,5 @@
 # Using Tessel GPS with PubNub & Google Maps
-     ![](/tessel-gps-maps.jpg)
+<center>![](/tessel-gps-maps.jpg)</center>
 
 
 This guide provides a kickstart to using the [Tessel](http://tessel.io) GPS board to send live co-ordinates via [PubNub](http://www.pubnub.com/) to a web page which in tern maps the location using [Google Maps](https://developers.google.com/maps/documentation/javascript/).
