@@ -129,7 +129,7 @@ gps.on('ready', function () {
         console.log('Connected to net sending data:' + data);
         needle.request(
           'post', 
-          'http://pubsub.pubnub.com/publish/[PUB KEY]/[SUB KEY]/signature/my_channel/0/', // see: http://www.pubnub.com/http-rest-push-api/
+          'http://pubsub.pubnub.com/publish/PUB_KEY/SUB_KEY/signature/my_channel/0/', // see: http://www.pubnub.com/http-rest-push-api/
           {text:data},
           {json:true}, 
           function(err, resp) {
